@@ -2,6 +2,7 @@
 ![](http://i3.ytimg.com/vi/9XUrdGh86rU/hqdefault.jpg)
 
 As the name suggests, this tools allows you to play any MIDI file in Genshin using the Wingsong Lyre obtained in the 1.4 Windblume Festival event.
+A bit of a warning, using 3rd Party Application to make the game easier is against Genshin Impact's ToS and you should use this at your risk.
 
 ## How To Use It
 1. Install [Python](https://python.org)
