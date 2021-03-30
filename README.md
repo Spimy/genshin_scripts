@@ -11,7 +11,7 @@ A bit of a warning, using 3rd Party Application to make the game easier is again
 4. [Download](https://bitmidi.com/) any MIDI file and put it inside the project folder
 5. Rename `midi_config.template.json` to `midi_config.json`
 6. Open the `midi_config.json` file and find the `file` key and set its value to `<midi_file_name>.mid`
-7. Run `pip install` to install all requirements listed in `requirements.txt`
+7. Run `pip install -r requirements.txt` to install all requirements listed in `requirements.txt`
 8. Run the `midi.py` file (recommended to run using your command line by typing `python midi.py`)
 9. Open Genshin and use the Windsong Lyre equipment
 10. Press `TAB + <number>` to start playing the music
