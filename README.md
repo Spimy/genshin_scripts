@@ -1,4 +1,6 @@
 # Genshin Windsong Lyre Midi Player
+![](http://i3.ytimg.com/vi/9XUrdGh86rU/hqdefault.jpg)
+
 As the name suggests, this tools allows you to play any MIDI file in Genshin using the Wingsong Lyre obtained in the 1.4 Windblume Festival event.
 
 ## How To Use It
